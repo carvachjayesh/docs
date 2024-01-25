@@ -1,7 +1,7 @@
 {
   "openapi": "https://carvachoemendpointsv1.azurewebsites.net/openapi.json",
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "CarVach API Reference",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
