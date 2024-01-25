@@ -1,4 +1,5 @@
 {
+  "openapi": "https://carvachoemendpointsv1.azurewebsites.net/openapi.json",
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
