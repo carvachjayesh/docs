@@ -59,6 +59,19 @@
       ]
     },
     {
+      "group": "APIs",
+      "pages": [
+        "api/get-battery-charge-level",
+        "api/get-charging-status",
+        "api/get-fuel-amount",
+        "api/get-location",
+        "api/get-tires-pressure",
+        "api/get-vehicle-details",
+        "api/lock-vehicle",
+        "api/unlock-vehicle"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
